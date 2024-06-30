@@ -1,12 +1,8 @@
-## Hi there 👋
+# Liq.fun
+### Liquidate your friends on-chain
 
-<!--
+This organization currenly hosts the following repositories:
 
-**Here are some ideas to get you started:**
+ - [Contracts](https://github.com/liq-fun/contracts) - A collection of our solidity contracts being used in the game.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can test the platform [here](https://liq-fun.vercel.app)
